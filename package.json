@@ -1,0 +1,19 @@
+{
+  "name": "verify-inputs",
+  "version": "1.0.0",
+  "description": "verify-inputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oz-om/verify-inputs.git"
+  },
+  "author": "oz-om",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oz-om/verify-inputs/issues"
+  },
+  "homepage": "https://github.com/oz-om/verify-inputs#readme"
+}
