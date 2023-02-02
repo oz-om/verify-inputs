@@ -51,7 +51,7 @@ each input has different requirements:
    symbols: '_-~'
  }
 ```
-```javascript=
+```javascript
 let usernameInput = document.getElementById("usernane");
 
 usernameInput.oninput = () => {
@@ -122,7 +122,7 @@ inputsValidation({name:'email',value:'ozom@mail.com'})
 }
 ```
 
-```javascript=
+```javascript
 
 let passwordInput = document.querySelector(".passwordInput");
 
