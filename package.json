@@ -1,5 +1,5 @@
 {
-  "name": "verify-inputs",
+  "name": "@oz-om/verify-inputs",
   "version": "1.0.0",
   "description": "verify-inputs",
   "main": "index.js",
